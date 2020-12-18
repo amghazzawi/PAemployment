@@ -1,6 +1,7 @@
 ---
 title: "COVID-19: Employment Impacts and Recovery"
 date: 2019-04-18T15:34:30-04:00
+excerpt: "An overview of the project, workforce development in PA, and statewide impacts of COVID-19 on employment"
 categories:
   - blog
 tags:
