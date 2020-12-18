@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
+title: "Reasons to Tip you Waiter"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "A comparative look at how different industries have fared and vulnerable hotspots across the state"
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
