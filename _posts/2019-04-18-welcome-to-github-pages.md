@@ -21,7 +21,7 @@ You'll find this post in your `_posts` directory. Go ahead and edit it and commi
 - Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
 - Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-<div id="hv-chart-1"></div>
+<div id="hv-chart-1"></div>.margin({"bottom":10})
 
 **To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
