@@ -1,5 +1,5 @@
 ---
-title: "Reasons to Tip you Waiter"
+title: "Reasons to Tip Your Waiter"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
