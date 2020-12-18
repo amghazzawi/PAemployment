@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Matplotlib Images"
+title: "Location, Location, Location?"
 date: 2019-04-17
 published: true
 tags: [dataviz, matplotlib]
-excerpt: "This is an example blog post that embeds a matplotlib image."
+excerpt: "A spatial analysis of employment impacts in urban and rural areas in PA"
 toc: true
 toc_sticky: true
 read_time: false
