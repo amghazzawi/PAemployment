@@ -1,9 +1,9 @@
 ---
-title: "Example: Embedding Folium charts"
+title: "Gritty's Employment Snapshot (or should we say slapshot?)"
 date: 2019-04-13
 published: true
 tags: [dataviz, folium]
-excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
+excerpt: "A case study analysis of employment trends in Philadelphia"
 folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"]
   folium-chart-2: ["charts/percent_no_internet.html", "400"]
