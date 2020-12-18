@@ -5,14 +5,14 @@ excerpt: "An overview of the project, workforce development in PA, and statewide
 categories:
   - blog
 hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
+  hv-chart-1: "charts/1_totclaimshvplot.html"
 tags:
   - Github Page
   - update
 ---
 
 ## Workforce Development in PA
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/WDA_Map.png)
+![wda-map]({{ site.url }}{{ site.baseurl }}/assets/images/WDA_Map.png)
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
 
