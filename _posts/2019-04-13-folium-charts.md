@@ -1,5 +1,5 @@
 ---
-title: "Gritty's Employment Snapshot (or should we say slapshot?)"
+title: "Gritty's Employment Snapshot (or shall we say slapshot?)"
 date: 2019-04-13
 published: true
 tags: [dataviz, folium]
