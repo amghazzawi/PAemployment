@@ -11,8 +11,8 @@ hv-loader:
   hv-chart-4: ["charts/1_industryclaimshvplot.html", "350"]
   hv-chart-5: ["charts/1_jobpostshvplot.html", "350"]
 tags:
-  - Github Page
-  - update
+toc: true
+toc_sticky: true
 ---
 
 ## Blog Overview and Background
