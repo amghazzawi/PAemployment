@@ -8,7 +8,7 @@ hv-loader:
   hv-chart-1: ["charts/1_totclaimshvplot.html", "350"]
   hv-chart-2: ["charts/1_totclaimsbyWDAhvplot.html", "550"]
   hv-chart-3: ["charts/1_totclaimsmap.html", "400"]
-  hv-chart-4: ["charts/1_industryclaimshvplot.html", "400"]
+  hv-chart-4: ["charts/1_industryclaimshvplot.html", "350"]
   hv-chart-5: ["charts/1_jobpostshvplot.html", "400"]
 tags:
   - Github Page
@@ -47,3 +47,6 @@ Certain industries have been more vulnerable to the impacts of COVID-19 than oth
 
 <div id="hv-chart-5"></div>
 
+Apart from the approval of two COVID-19 vaccines, there are initial signs of an economic recovery in Pennsylvania with an uptick in job postings in recent months. Provided by the Pennsylvania Department of Labor & Industry, job postings have steadily risen since June, outpacing 2019 levels as some businesses look to rehire employees.
+
+WDA boards must respond to the unemployment crisis by supporting constituents and redistributing resources accordingly. As the above charts and maps indicate, unemployment support is a more nuanced issue than simply allocating resources based on overall WDA claims. Employees working in certain industries like healthcare and manufacturing require greater support at this time and additional considerations must be made to account for claims as a percentage of overall WDA population.
