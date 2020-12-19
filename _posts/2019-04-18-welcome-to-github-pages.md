@@ -7,7 +7,9 @@ categories:
 hv-loader:
   hv-chart-1: "charts/1_totclaimshvplot.html"
   hv-chart-2: "charts/1_totclaimsbyWDAhvplot.html"
-  hv-chart-3: 
+  hv-chart-3: "charts/1_totclaimsmap.html"
+  hv-chart-4: 
+  hv-chart-5:
 tags:
   - Github Page
   - update
@@ -28,15 +30,9 @@ You'll find this post in your `_posts` directory. Go ahead and edit it and commi
 
 <div id="hv-chart-2"></div>
 
-
 Jekyll also offers powerful support for code snippets:
 
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
-```
+<div id="hv-chart-3"></div>
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
