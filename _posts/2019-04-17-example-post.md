@@ -6,7 +6,7 @@ categories:
   - blog
 hv-loader:
   hv-chart-1: ["charts/2_urban_rural_claims_month_hvplot.html", "400"]
-  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "400"]
+  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "750"]
 tags:
   - Github Page
   - update
