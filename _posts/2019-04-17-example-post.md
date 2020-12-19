@@ -8,6 +8,12 @@ hv-loader:
   hv-chart-1: ["charts/2_urban_rural_claims_month_hvplot.html", "400"]
   hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "800"]
   hv-chart-3: ["charts/2_urban_rural_industry_month_claims_hvplot.html", "400"]
+  hv-chart-4: ["charts/2_urban_rural_industry_Jan_vs_Nov_hvplot.html", "400"]
+
+  
+  
+  
+  2_urban_rural_industry_Jan_vs_Nov_hvplot.html
   
 tags:
   - Github Page
@@ -24,3 +30,8 @@ tags:
 # Section 2
 
 <div id="hv-chart-3"></div>
+
+
+# Section 2
+
+<div id="hv-chart-4"></div>
