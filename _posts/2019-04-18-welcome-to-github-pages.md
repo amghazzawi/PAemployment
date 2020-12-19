@@ -15,10 +15,15 @@ tags:
   - update
 ---
 
+## Blog Overview and Background
+COVID-19 has had severe implications on the Pennsylvania economy: shuttered businesses, furloughed and laid off employees, and ambiguous timelines on when we can expect a return to "normal". Through a series of vignettes, this blog strives to shed light on 2020 employment trends across the Commonwealth of Pennsylvania. We will discuss how different industries and geographic areas within the state have been impacted and where they are in their recovery as the economy has slowly reopened. Through each vignette, we will frame our discussion around workforce development, providing thoughts and ideas for Pennsylvania to better target resources aimed at supporting individuals find and maintain a job.
+
+We will begin with this post as a high-level overview and later posts will dive deeper into different aspects of employment trends we are seeing in Pennsylvania. 
+
 ## Workforce Development in PA
 ![wda-map]({{ site.url }}{{ site.baseurl }}/assets/images/WDA_Map.png)
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
+The above map visualizes Pennsylvania's Workforce Development Areas (WDAs)
 
 - Edit files within your in the browser at GitHub.com
 - Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
