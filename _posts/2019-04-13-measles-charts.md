@@ -1,13 +1,13 @@
 ---
 title: "Reasons to Tip Your Waiter"
-date: 2019-04-13
+date: 2020-12-21
 published: true
 tags:
 excerpt: "A comparative look at how different industries have fared and vulnerable hotspots across the state"
 hv-loader:
-  hv-chart-1: ["charts/3_claimsdropdownhvplot.html","500"]
-  hv-chart-2: ["charts/3_industrypctmap.html","500]
-  hv-chart-3: ["charts/3_wageshvplot.html","500"]
+  hv-chart-1: ["charts/3_claimsdropdownhvplot.html", "500"]
+  hv-chart-2: ["charts/3_industrypctmap.html", "500]
+  hv-chart-3: ["charts/3_wageshvplot.html", "500"]
 toc: true
 toc_sticky: true
 ---
