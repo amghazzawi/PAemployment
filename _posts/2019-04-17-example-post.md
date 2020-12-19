@@ -26,9 +26,7 @@ According to the U.S. Census Bureau’s definition of urban and rural areas, thi
 
 # Employment Impacts
 Unemployment claims in all three urban-rural groups spiked immediately after the pandemic began and started to significantly decline at the beginning of the summer, matching state level trends discussed in our first post COVID-19: Employment Impacts and Recovery.  The chart above shows continuous unemployment claims in 2020 for each urban-rural classification.   
-
 <div id="hv-chart-1"></div>
-
 As of November, unemployment claims are beginning to approach pre-pandemic levels.  Out of all three groups, rural counties are the closest, where approximately 28,000 rural county residents remain on unemployment compared to 19,300 claims reported at the beginning of March.  Urban counties are following a slower recovery, where unemployment claims for small urban residents is more than double (182k vs. 75k) pre-pandemic levels and almost four times greater (36k vs 140k) for large urban residents.  
 
 
