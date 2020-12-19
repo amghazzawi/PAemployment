@@ -8,7 +8,7 @@ hv-loader:
   hv-chart-1: ["charts/4_phl_claims_month_hvplot.html", "400"]
   hv-chart-2: ["charts/4_phl_claims_industry_hvplot.html", "400"]
   hv-chart-3: ["charts/4_phl_vs_urban_claims_industry.html", "400"]
-  hv-chart-4: ["charts/4_phl_vs_urban_claims_industry.html", "400"]
+  hv-chart-4: ["charts/4_PHL_job_posts.html", "400"]
   
 tags:
   - Github Page
