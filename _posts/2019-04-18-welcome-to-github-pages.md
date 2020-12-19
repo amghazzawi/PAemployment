@@ -16,7 +16,7 @@ tags:
 ---
 
 ## Blog Overview and Background
-COVID-19 has had severe implications on the Pennsylvania economy: shuttered businesses, furloughed and laid off employees, and ambiguous timelines on when we can expect a return to "normal". Through a series of vignettes, this blog strives to shed light on 2020 employment trends across the Commonwealth of Pennsylvania. We will discuss how different industries and geographic areas within the state have been impacted and where they are in their recovery as the economy has slowly reopened. Through each vignette, we will frame our discussion around workforce development, providing thoughts and ideas for Pennsylvania to better target resources aimed at supporting individuals find and maintain a job.
+**COVID-19** has had severe implications on the Pennsylvania economy: shuttered businesses, furloughed and laid off employees, and ambiguous timelines on when we can expect a return to "normal". Through a series of vignettes, this blog strives to shed light on 2020 employment trends across the Commonwealth of Pennsylvania. We will discuss how different industries and geographic areas within the state have been impacted and where they are in their recovery as the economy has slowly reopened. Through each vignette, we will frame our discussion around workforce development, providing thoughts and ideas for Pennsylvania to better target resources aimed at supporting individuals find and maintain a job.
 
 We will begin with this post as a high-level overview and later posts will dive deeper into different aspects of employment trends we are seeing in Pennsylvania. 
 
@@ -47,6 +47,6 @@ Certain industries have been more vulnerable to the impacts of COVID-19 than oth
 
 <div id="hv-chart-5"></div>
 
-Apart from the approval of two COVID-19 vaccines, there are initial signs of an economic recovery in Pennsylvania with an uptick in job postings in recent months. Provided by the Pennsylvania Department of Labor & Industry, job postings have steadily risen since June, outpacing 2019 levels as some businesses look to rehire employees.
+**Apart** from the approval of two COVID-19 vaccines, there are initial signs of an economic recovery in Pennsylvania with an uptick in job postings in recent months. Provided by the Pennsylvania Department of Labor & Industry, job postings have steadily risen since June, outpacing 2019 levels as some businesses look to rehire employees.
 
 WDA boards must respond to the unemployment crisis by supporting constituents and redistributing resources accordingly. As the above charts and maps indicate, unemployment support is a more nuanced issue than simply allocating resources based on overall WDA claims. Employees working in certain industries like healthcare and manufacturing require greater support at this time and additional considerations must be made to account for claims as a percentage of overall WDA population.
