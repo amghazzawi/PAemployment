@@ -35,7 +35,7 @@ Although the number of people collecting unemployment has steadily improved sinc
 
 <div id="hv-chart-2"></div>
 
-In terms of WDAs, the largest share of unemployment claims have come out of Pennsylvania's major economic hub, Philadelphia followed by the South Central WDA, consisting of 8 counties, and the Three Rivers WDA, home to Pittsburgh. Although WDAs located in the western and northern parts of the state have fewer total claims, the map below indicates both the percentage of state claims that each WDA makes up as compared to the percentage of state population. Using population as a means to measure disproportionate impacts on unemployment, Philadelphia and its neighboring WDAs have fared better while WDAs in the central and northern parts of the state have experienced elevated levels of unemployment claims in 2020.
+**In terms of WDAs,** the largest share of unemployment claims have come out of Pennsylvania's major economic hub, Philadelphia followed by the South Central WDA, consisting of 8 counties, and the Three Rivers WDA, home to Pittsburgh. Although WDAs located in the western and northern parts of the state have fewer total claims, the map below indicates both the percentage of state claims that each WDA makes up as compared to the percentage of state population. Using population as a means to measure disproportionate impacts on unemployment, Philadelphia and its neighboring WDAs have fared better while WDAs in the central and northern parts of the state have experienced elevated levels of unemployment claims in 2020.
 
 <div id="hv-chart-3"></div>
 
