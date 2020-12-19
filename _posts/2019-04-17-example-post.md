@@ -5,7 +5,8 @@ excerpt: "An overview of the project, workforce development in PA, and statewide
 categories:
   - blog
 hv-loader:
-  hv-chart-1: ["charts/2_urban_rural_claims_hvplot.html", "400"]
+  hv-chart-1: ["charts/2_urban_rural_claims_month_hvplot.html", "400"]
+  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "400"]
 tags:
   - Github Page
   - update
@@ -16,4 +17,5 @@ tags:
 
 # Section 1
 
+<div id="hv-chart-2"></div>
 
