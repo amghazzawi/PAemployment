@@ -5,11 +5,11 @@ excerpt: "An overview of the project, workforce development in PA, and statewide
 categories:
   - blog
 hv-loader:
-  hv-chart-1: "charts/1_totclaimshvplot.html"
-  hv-chart-2: "charts/1_totclaimsbyWDAhvplot.html"
-  hv-chart-3: "charts/1_totclaimsmap.html"
-  hv-chart-4: "charts/1_industryclaimshvplot.html"
-  hv-chart-5: "charts/1_jobpostshvplot.html"
+  hv-chart-1: ["charts/1_totclaimshvplot.html", "600"]
+  hv-chart-2: ["charts/1_totclaimsbyWDAhvplot.html", "600"]
+  hv-chart-3: ["charts/1_totclaimsmap.html", "600"]
+  hv-chart-4: ["charts/1_industryclaimshvplot.html", "600"]
+  hv-chart-5: ["charts/1_jobpostshvplot.html", "600"]
 tags:
   - Github Page
   - update
