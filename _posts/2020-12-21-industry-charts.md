@@ -12,14 +12,17 @@ hv-loader:
 toc: true
 toc_sticky: true
 ---
-## Hello
+## PA Industry Analysis
+
+Although employees in healthcare, manufacturing, and food and accommodation services have experienced exacerbated levels of unemployment in Pennsylvania in 2020, industries have been impacted differently across the Commonwealth. In more rural areas like the North Central WDA, agricultural industries
+
 <div id="hv-chart-1"></div>
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
 
 <div id="hv-chart-2"></div>
 
-## HvPlot Example
+## Vulnerable Industries
 
 Lastly, the measles incidence produced using the HvPlot package:
 
