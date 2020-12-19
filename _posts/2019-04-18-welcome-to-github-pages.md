@@ -39,13 +39,11 @@ Although the number of people collecting unemployment has steadily improved sinc
 
 <div id="hv-chart-3"></div>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+Certain industries have been more vulnerable to the impacts of COVID-19 than others. Healthcare workers ironically make up the largest share of unemployment claims as elective surgeries have subsided and healthcare systems have been devoted to mitigating the effects of the pandemic. Manufacturing, as well as the Accommodation and Food industries have also been particularly hard hit as consumers constrict spending and limit travel. As we will discuss in later posts, certain industies in different parts of the state have fared better than others. 
 
 <div id="hv-chart-4"></div>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## A Possible Sign of Recovery
 
 <div id="hv-chart-5"></div>
 
