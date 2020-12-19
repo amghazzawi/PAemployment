@@ -7,6 +7,7 @@ categories:
 hv-loader:
   hv-chart-1: "charts/1_totclaimshvplot.html"
   hv-chart-2: "charts/1_totclaimsbyWDAhvplot.html"
+  hv-chart-3: 
 tags:
   - Github Page
   - update
