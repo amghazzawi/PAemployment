@@ -9,7 +9,7 @@ hv-loader:
   hv-chart-2: ["charts/1_totclaimsbyWDAhvplot.html", "550"]
   hv-chart-3: ["charts/1_totclaimsmap.html", "400"]
   hv-chart-4: ["charts/1_industryclaimshvplot.html", "350"]
-  hv-chart-5: ["charts/1_jobpostshvplot.html", "400"]
+  hv-chart-5: ["charts/1_jobpostshvplot.html", "350"]
 tags:
   - Github Page
   - update
