@@ -16,6 +16,13 @@ tags:
   - Github Page
   - update
 ---
+## Urban vs. Rural PA
+
+Major industries vary throughout Pennsylvania based on urban and rural environments.  Typically, manufacturing jobs are located outside the urban core in lower dense areas while a majority of food and dining jobs are in cities.  Considering that industries and population vary across regions, it is important to analyze the economic impacts based on geographical context.
+
+<div id="hv-chart-5"></div>
+
+According to the U.S. Census Bureau’s definition of urban and rural areas, thirty out of Pennsylvania’s sixty-seven counties are rural while the rest are urban.  However, since a majority (90%) of Pennsylvanians resides in urban counties, we divided them into two groups based on population density (1,500 people per square mile): small urban counties and large urban counties.  Based on this method, we identify thirty rural counties, thirty-three small urban counties, and four large urban counties (Philadelphia, Allegheny, Montgomery, and Delaware).  The map above visualizes Pennsylvania’s 67 counties based on this urban-rural classification.
 
 
 <div id="hv-chart-1"></div>
@@ -35,7 +42,6 @@ tags:
 
 # Section 2
 
-<div id="hv-chart-5"></div>
 
 
 # Section 2
