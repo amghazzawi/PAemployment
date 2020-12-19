@@ -23,13 +23,11 @@ We will begin with this post as a high-level overview and later posts will dive 
 ## Workforce Development in PA
 ![wda-map]({{ site.url }}{{ site.baseurl }}/assets/images/WDA_Map.png)
 
-The above map visualizes Pennsylvania's Workforce Development Areas (WDAs)
+The above map visualizes Pennsylvania's 23 Workforce Development Areas (WDAs), or regions within the state that maintain governing bodies overseeing workforce development activities and services for the constituents of that region. The ways in which WDAs distribute and target resourcing will play a critical role in the recovery of Pennsylvania's economy through the support of a labor force seeking new work opportunities.
 
-- Edit files within your in the browser at GitHub.com
-- Use a third party GitHub content editor, like [Prose by Development Seed](https://prose.io).
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
+## Employment Impacts
 
-<div id="hv-chart-1"></div><margin-bottom:10>
+<div id="hv-chart-1"></div>
 
 **To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
