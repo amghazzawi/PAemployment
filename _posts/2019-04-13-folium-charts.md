@@ -1,26 +1,34 @@
 ---
 title: "Gritty's Employment Snapshot (or shall we say slapshot?)"
-date: 2019-04-13
-published: true
-tags: [dataviz, folium]
-excerpt: "A case study analysis of employment trends in Philadelphia"
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
-toc: true
-toc_sticky: true
+date: 2020-12-21
+excerpt: "An overview of the project, workforce development in PA, and statewide impacts of COVID-19 on employment"
+categories:
+  - blog
+hv-loader:
+  hv-chart-1: ["charts/4_phl_claims_month_hvplot.html", "400"]
+  hv-chart-2: ["charts/4_phl_claims_industry_hvplot.html", "400"]
+  hv-chart-3: ["charts/4_phl_vs_urban_claims_industry.html", "400"]
+  hv-chart-4: ["charts/4_phl_vs_urban_claims_industry.html", "400"]
+  
+tags:
+  - Github Page
+  - update
 ---
 
-This post will show examples of embedding interactive maps produced using [Folium](https://github.com/python-visualization/folium).
+# Section 1
 
-## OSMnx and Street Networks
+<div id="hv-chart-1"></div>
 
-The shortest route between the Art Museum and the Liberty Bell:
+# Section 1
 
-<div id="folium-chart-1"></div>
+<div id="hv-chart-2"></div>
 
-## Percentage of Households without Internet
+# Section 2
 
-<div id="folium-chart-2"></div>
+<div id="hv-chart-3"></div>
 
-See the [lecture 9B slides](https://musa-550-fall-2020.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2020.github.io/slides/lecture-10A.html) for the code that produced these plots.
+
+# Section 2
+
+<div id="hv-chart-4"></div>
+
