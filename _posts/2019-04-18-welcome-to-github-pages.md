@@ -5,8 +5,8 @@ excerpt: "An overview of the project, workforce development in PA, and statewide
 categories:
   - blog
 hv-loader:
-  hv-chart-1: ["charts/1_totclaimshvplot.html", "400"]
-  hv-chart-2: ["charts/1_totclaimsbyWDAhvplot.html", "600"]
+  hv-chart-1: ["charts/1_totclaimshvplot.html", "350"]
+  hv-chart-2: ["charts/1_totclaimsbyWDAhvplot.html", "550"]
   hv-chart-3: ["charts/1_totclaimsmap.html", "400"]
   hv-chart-4: ["charts/1_industryclaimshvplot.html", "400"]
   hv-chart-5: ["charts/1_jobpostshvplot.html", "400"]
@@ -35,7 +35,7 @@ Although the number of people collecting unemployment has steadily improved sinc
 
 <div id="hv-chart-2"></div>
 
-Jekyll also offers powerful support for code snippets:
+In terms of WDAs, the largest share of unemployment claims have come out of Pennsylvania's major economic hub, Philadelphia followed by the South Central WDA, consisting of 8 counties, and the Three Rivers WDA, home to Pittsburgh. Although WDAs located in the western and northern parts of the state have fewer total claims, the map below indicates both the percentage of state claims that each WDA makes up as compared to the percentage of state population. Using population as a means to measure disproportionate impacts on unemployment, Philadelphia and its neighboring WDAs have fared better while WDAs in the central and northern parts of the state have experienced elevated levels of unemployment claims in 2020.
 
 <div id="hv-chart-3"></div>
 
