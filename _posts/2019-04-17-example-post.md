@@ -1,7 +1,7 @@
 ---
 title: "Location, Location, Location?"
 date: 2020-12-21
-excerpt: "An overview of the project, workforce development in PA, and statewide impacts of COVID-19 on employment"
+excerpt: "A comparative look at unemployment trends across different geographic regions"
 categories:
   - blog
 hv-loader:
