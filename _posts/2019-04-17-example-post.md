@@ -18,7 +18,7 @@ toc_sticky: true
 ---
 
 ## Urban vs. Rural PA
-**Major industries** vary throughout Pennsylvania based on urban and rural environments.  Typically, manufacturing jobs are located outside the urban core in lower dense areas while a majority of food and dining jobs are in cities.  Considering that industries and population vary across regions, it is important to analyze the economic impacts based on geographical context.
+**Major industries** vary throughout Pennsylvania based on urban and rural environments.  Typically, manufacturing jobs are located outside the urban core in less dense areas while a majority of food and dining jobs are in cities.  Considering that industries and population vary across regions, it is important to analyze the economic impacts based on geographical context.
 
 <div id="hv-chart-5"></div>
 
