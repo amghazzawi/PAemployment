@@ -20,14 +20,14 @@ toc_sticky: true
 
 <div id="hv-chart-1"></div>
 
-Several of Philadelphia’s key industries include manufacturing, health care, higher education, manufacturing, food processing, biotech, and tourism.  While some of these industries in Philadelphia, including higher education and biotech, have remained minimally impacted by the pandemic, health care and tourism have taken a big hit, accounting for 35% of the city’s unemployment claims.   
+**Key industries** in Philadelphia include manufacturing, health care, higher education, manufacturing, food processing, biotech, and tourism.  While some of these industries, including higher education and biotech, have remained minimally impacted by the pandemic, health care and tourism have taken a big hit, accounting for one-third (35%) of the city’s unemployment claims.   
 
 <div id="hv-chart-3"></div>
 
 Compared to other large urban counties (including Allegheny, Montgomery, and Delaware) Philadelphia has experienced a similar trend of unemployment across all industries. As shown in the chart above, the share of Philadelphia’s unemployment claims are slightly higher in Accommodation and Food and Health Care compared to other large urban areas, but lower in Construction.    
 
 ## Far Behind From Recovery
-**High levels** of unemployment claims in the hospitality industry has made it even more challenging for people to find jobs in a city that is growing in education and biotech, which require a specific set of skills or experience. Many Philadelphian’s who are unemployed are most likely struggling to find jobs in other fields due to the limitation of transferable skills.  
+**High levels** of unemployment claims in the hospitality industry has made it even more challenging for people to find jobs in a city that is growing in education and biotech, which require a specific set of skills or experience. Many Philadelphians who are unemployed are most likely struggling to find jobs in other fields due to the limitation of transferable skills.  
 
 Some jobs have started to come back in Pennsylvania, but Philadelphia is still far behind in reaching similar levels before the pandemic.   Based on Pennsylvania’s Department of Labor & Industry, job postings in Philadelphia have remained at a similar level throughout the pandemic, far behind 2019 levels.
 
