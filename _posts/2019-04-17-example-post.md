@@ -6,9 +6,9 @@ categories:
   - blog
 hv-loader:
   hv-chart-1: ["charts/2_urban_rural_claims_month_hvplot.html", "350"]
-  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "800"]
+  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "750"]
   hv-chart-3: ["charts/2_urban_rural_industry_month_claims_hvplot.html", "375"]
-  hv-chart-4: ["charts/2_urban_rural_industry_Mar_vs_Nov_hvplot.html", "375"]
+  hv-chart-4: ["charts/2_urban_rural_industry_Mar_vs_Nov_hvplot.html", "400"]
   hv-chart-5: ["charts/2_urban_rural_map.html", "425"]
   hv-chart-6: ["charts/2_urban_rural_claims_per_industry_month_hvplot_bar.html", "375"]
   
@@ -28,10 +28,10 @@ According to the <a href="https://www.census.gov/programs-surveys/geography/guid
 **Unemployment claims** in all three urban-rural groups spiked immediately after the pandemic began and started to significantly decline at the beginning of the summer, matching state level trends discussed in our first post **COVID-19: Employment Impacts and Recovery**.  The chart below shows continuous unemployment claims in 2020 for each urban-rural classification.   
 <div id="hv-chart-1"></div>
 As of November, unemployment claims are beginning to approach pre-pandemic levels.  Out of all three groups, rural counties are the closest, where approximately 28,000 rural county residents remain on unemployment compared to 19,300 claims reported at the beginning of March.  Urban counties are following a slower recovery, where unemployment claims for small urban residents is more than double (182k vs. 75k) pre-pandemic levels and almost four times greater (140k vs 36k) for large urban residents.  
-<div id="hv-chart-2"></div>
 
 ## Industry Trends
 **Among** PA’s 2020 unemployment claims, Heath Care (14%), Manufacturing (14%), Accommodation and Food (14%), and Construction (12%) make up the four highest shares, accounting for over 50% of all initial claims.   Across all three urban-rural groups, Construction, Health Care, and Accommodation and Food industries were reported to be among the industries with the highest share of claims. The chart below shows the share of unemployment claims in 2020 by industry for each urban-rural classification. Unsurprisingly, the Accommodation and Food industry has the highest share (16%) of unemployment claims in large urban areas while Manufacturing accounts for one-quarter of all claims in rural counties and 15% of small urban claims.   
+<div id="hv-chart-2"></div>
 
 Although continuous unemployment claims have declined, each industry is recovering at a different rate.  Depending upon the urban-rural group, some industries are improving while others are still drastically suffering.  The chart below compares the share of continuous unemployment claims in a specific urban-rural group by industry during the peak of unemployment (May 2020) versus a recent snapshot in November 2020. For example, in large urban areas, the share of unemployment claims increase from 14% to 21% in health care while it remained at a consistent rate across rural and small urban areas.   
 
