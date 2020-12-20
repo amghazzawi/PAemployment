@@ -6,7 +6,7 @@ categories:
   - blog
 hv-loader:
   hv-chart-1: ["charts/2_urban_rural_claims_month_hvplot.html", "350"]
-  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "750"]
+  hv-chart-2: ["charts/2_urban_rural_claims_industry_hvplot.html", "800"]
   hv-chart-3: ["charts/2_urban_rural_industry_month_claims_hvplot.html", "375"]
   hv-chart-4: ["charts/2_urban_rural_industry_Mar_vs_Nov_hvplot.html", "400"]
   hv-chart-5: ["charts/2_urban_rural_map.html", "425"]
