@@ -1,7 +1,7 @@
 ---
 title: "Gritty's Employment Snapshot (or shall we say slapshot?)"
 date: 2020-12-21
-excerpt: "A comparative look at unemployment trends across different geographic regions"
+excerpt: "An overview of COVID-19 impacts on employment in Philadelphia"
 categories:
   - blog
 hv-loader:
