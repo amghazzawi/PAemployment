@@ -1,7 +1,7 @@
 ---
 title: "Gritty's Employment Snapshot (or shall we say slapshot?)"
 date: 2020-12-21
-excerpt: "An overview of the project, workforce development in PA, and statewide impacts of COVID-19 on employment"
+excerpt: "A comparative look at unemployment trends across different geographic regions"
 categories:
   - blog
 hv-loader:
@@ -36,10 +36,5 @@ Some jobs have started to come back in Pennsylvania, but Philadelphia is still f
 <div id="hv-chart-4"></div>
 
 At the beginning of the pandemic, American Job Centers closed and eventually started to offer career services remotely.  Philadelphia’s CareerLink Centers, career service centers managed by Philadelphia’s workforce development board, have been operating remotely to help residents through their job search, but they are most likely facing resource capacity issues due to the high demand.  As unemployment benefits start to expire, there is now a greater need for Philadelphia’s WDA to priority funding and programming in workforce development.
-
-
-
-
-# Section 2
 
 
